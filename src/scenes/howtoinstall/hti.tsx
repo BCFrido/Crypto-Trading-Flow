@@ -8,7 +8,7 @@ const HowToInstallItems: HowToInstallItem[] = [
   {
     icon: "simple-icons:binance",
     title: "Binance",
-    link: "https://example.com/binance-installation",
+    link: "https://docs.google.com/document/d/1ofKdJnsmhuqDQ96cvlqAuPGTvgatCD8GG3KkYP1n3QU/edit",
   },
 ];
 
