@@ -55,19 +55,19 @@ const Footer = () => {
        ) : (
           <div className="w-screen">
             <span className="flex items-center justify-center my-4">
-            <a href="https://t.me/cryptotradingflow"
+            <a href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block rounded-full">
               <Icon icon="pajamas:twitter" width="1.65em" className="mr-2 " />
             </a>
-            <a href="https://t.me/cryptotradingflow"
+            <a href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block ml-3 rounded-full">
               <Icon icon="bi:facebook" width="1.65em" className="mr-2 " />
             </a>
-            <a href="https://t.me/cryptotradingflow"
+            <a href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block ml-3 rounded-full">
@@ -77,7 +77,7 @@ const Footer = () => {
                 className="mr-2 "
               />
             </a>
-            <a href="https://discord.gg/wqjw4aZq"
+            <a href="https://discord.gg/fxNe2x8SCD"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block ml-3 rounded-full">

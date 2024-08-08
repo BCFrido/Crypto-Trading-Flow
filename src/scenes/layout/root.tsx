@@ -50,7 +50,7 @@ function Root() {
                 FAQ
               </NavLink>
               <a
-                href="https://discord.gg/wqjw4aZq"
+                href="https://discord.gg/fxNe2x8SCD"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block px-3 py-1 bg-indigo-500 rounded-full lg:py-3 lg:px-7 hover:bg-indigo-600"
@@ -98,7 +98,7 @@ function Root() {
                     FAQ
                   </NavLink>
                   <a
-                    href="https://discord.com/invite/your-discord-invite"
+                    href="https://discord.gg/fxNe2x8SCD"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block py-3 bg-indigo-500 rounded-full px-7 hover:bg-indigo-600"
